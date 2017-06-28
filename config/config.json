@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "stephenwicks",
+    "password": null,
+    "database": "todolistapp",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "stephenwicks",
+    "password": null,
+    "database": "todolistapp",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "stephenwicks",
+    "password": null,
+    "database": "todolistapp",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
